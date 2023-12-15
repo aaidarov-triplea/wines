@@ -1,0 +1,1 @@
+export const WINES_URL = "https://api.sampleapis.com/wines"
